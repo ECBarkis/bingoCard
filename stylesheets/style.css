@@ -1,0 +1,21 @@
+table{
+    margin: 20px auto;
+    height: 100px;
+    width: 250px;
+}
+td{
+    padding-bottom: 15px;
+    height: 30px;
+    width: 30px;
+    font-weight: bolder;
+    border: 1px solid red;
+    text-align: center;
+}
+.title{
+    color: white;
+    background-color: red;
+}
+.dot{
+    background-color: red;
+    border-radius: 50%;
+}
