@@ -1,21 +1,19 @@
-table{
-    margin: 20px auto;
-    height: 100px;
-    width: 250px;
-}
-td{
-    padding-bottom: 15px;
-    height: 30px;
-    width: 30px;
-    font-weight: bolder;
-    border: 1px solid red;
-    text-align: center;
-}
 .title{
     color: white;
     background-color: red;
 }
-.dot{
+h2.dot{
     background-color: red;
     border-radius: 50%;
+}
+h2{
+    margin: 14px 29px;
+    padding: 5px;
+}
+div.num{
+    border: 1px solid red;
+}
+h2.num{
+    margin: 10px auto;
+    text-align: center;
 }
